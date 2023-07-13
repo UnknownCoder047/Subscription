@@ -1,0 +1,22 @@
+{
+  "name": "subscription",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./css/input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnknownCoder047/Subscription.git"
+  },
+  "author": "Mayur Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnknownCoder047/Subscription/issues"
+  },
+  "homepage": "https://github.com/UnknownCoder047/Subscription#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
